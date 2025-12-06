@@ -108,13 +108,22 @@ E-commerce-ready Telegram bots with:
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimpelumi6142&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimpelumi6142&theme=tokyonight" alt="streak" />
-</p>
+  <!-- GitHub Stats -->
+  <a href="https://github.com/ibrahimpelumi6142">
+    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ibrahimpelumi6142&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+
+</div>
+
+<div align="center">
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=ibrahimpelumi6142&theme=tokyonight" alt="streak" />
+
+</div>
+
 
 
 ---
