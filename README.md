@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Lasisi Ibrahim Pelumi</h1>
+<h1 align="center">👋 Hi, I'm Ibrahim Pelumi Lasisi</h1>
 <h3 align="center">Full-Stack Engineer • Automation Expert • SaaS & Bot Developer</h3>
 
 <p align="center">
