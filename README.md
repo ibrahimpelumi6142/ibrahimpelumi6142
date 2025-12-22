@@ -90,11 +90,10 @@ E-commerce-ready Telegram bots with:
 
 ### 📈 What I'm Working On
 - Building **open-source WhatsApp tools** for developers  
-- Azure + Asterisk automation SDK  
 - New AI/automation micro-SaaS products  
 - Expanding ToolsHub with more high-demand tools  
 - Preparing open-source contributions
-- Publishing technical guides on cloud automation, TTS/STT, and messaging APIs  
+- Publishing technical guides on cloud automation and messaging APIs  
 
 ---
 
