@@ -1,142 +1,111 @@
-<h1 align="center">👋 Hi, I'm Ibrahim Pelumi Lasisi</h1>
-<h3 align="center">Full-Stack Engineer • Automation Expert • SaaS & Bot Developer</h3>
-
-<p align="center">
-  🇬🇧 Based in Sheffield, UK • 🌍 Working with clients worldwide
-</p>
-
----
-
-### 🚀 About Me
-
-I’m a full-stack software engineer who builds complete systems end-to-end — from UI/UX, frontend development, backend architecture, database design, DevOps, automation workflows, cloud deployment, and API engineering.
-
-My work focuses on automation, SaaS platforms, AI-powered tools, communication systems, and real-time applications.
-
-I specialize in:
-- WhatsApp Cloud API & Telegram Bot Development  
-- Cloud systems using **Azure**, **AWS**, and VPS infrastructure  
-- Asterisk telephony automation, call routing & SIP integrations  
-- Azure Cognitive Services (Text-to-Speech, Speech-to-Text, Speech Synthesis)  
-- Web applications with **Next.js, Node.js, Python/FastAPI**  
-- Automation workflows, API integrations & DevOps pipelines  
-- Scalable tools, dashboards, job platforms, and real-time systems  
-
-I build products end-to-end — from system design → backend → frontend → CI/CD → cloud deployment.
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend:** Next.js • React • TailwindCSS  
-**Backend:** Node.js • FastAPI • Express • Python  
-**Databases:** MongoDB • PostgreSQL • Redis  
-
-**Cloud & DevOps:**  
-- **Microsoft Azure:** Cognitive Services, TTS/STT, Azure Functions, App Service  
-- **AWS:** EC2, S3, SES, Lambda, IAM  
-- Docker • Nginx • Cloudflare • PM2 • GitHub Actions  
-
-**Messaging & Telephony:**  
-- WhatsApp Cloud API  
-- Telegram Bot API  
-- Twilio  
-- **Asterisk PBX**, SIP routing, IVR automation  
-
-**AI & Integrations:**  
-OpenAI API • Azure AI • RapidAPI • Webhooks • REST APIs
-
----
-
-### 🚧 Featured Projects (Pinned)
-
-#### 🔹 **WorqNow – AI-powered WhatsApp Job Assistant**
-A WhatsApp AI bot that retrieves job listings, recommends personalized opportunities, generates professional CVs, and automates job search workflows.  
-Tech: FastAPI, MongoDB, Remotive API, JSearch API, APScheduler  
-👉 *Multi-API Job Aggregation*  
-👉 *NLU-powered job search engine*  
-👉 *CV Builder with PDF generation*  
-
----
-
-#### 🔹 **ToolsHub – Multi-Tool SaaS Platform**
-A full SaaS suite offering AI text tools, PDF tools, image utilities, video downloaders, website analyzers, and more.  
-Tech: Next.js, Node.js, Sharp, Cloudflare, MongoDB  
-👉 *Dozens of tools powered by custom backend APIs*  
-👉 *Fully containerized & optimized for speed*  
-
----
-
-#### 🔹 **WhatsApp Automation Projects**
-Custom WhatsApp bots for:  
-✔ E-commerce notifications  
-✔ Lead generation  
-✔ Appointment availability  
-✔ Membership validation  
-✔ Real estate funnels  
-✔ Broadcast messaging systems  
-
----
-
-#### 🔹 **Telegram Store Bots**
-E-commerce-ready Telegram bots with:  
-✔ Product catalog  
-✔ Checkout workflow  
-✔ Order management  
-✔ Payment integration  
-✔ CRM automation  
-
----
-
-### 📈 What I'm Working On
-- Building **open-source WhatsApp tools** for developers  
-- New AI/automation micro-SaaS products  
-- Expanding ToolsHub with more high-demand tools  
-- Preparing open-source contributions
-- Publishing technical guides on cloud automation and messaging APIs  
-
----
-
-### 🌍 Connect With Me
-
-**LinkedIn:** https://www.linkedin.com/in/ibrahim-lasisi-ba6192130/  
-**Portfolio (coming soon):**   
-**Email:** ibrahimpelumi6142@gmail.com  
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <a href="https://github.com/ibrahimpelumi6142">
-    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ibrahimpelumi6142&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Ibrahim+Pelumi+Lasisi)](https://git.io/typing-svg)
+
+[![subtitle](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=99999&color=FF0000&center=true&vCenter=true&width=700&height=28&lines=Full-Stack+Engineer+%C2%B7+Founder+%C2%B7+Builder)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2000&pause=1200&color=FF0000&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Building+WorqNow+%F0%9F%94%8D+—+AI+job+assistant+on+WhatsApp;Building+Cardron+%F0%9F%92%B3+—+gift+cards+%26+eSIMs+on+WhatsApp;Building+OnlineQuickTools.com+%F0%9F%9B%A0%EF%B8%8F+—+free+tools+for+everyone;Founder+%40+Devloopr+Web+Solution+Ltd+%F0%9F%87%AC%F0%9F%87%A7)](https://git.io/typing-svg)
 
 </div>
 
+---
+
+```
+name     : Ibrahim Pelumi Lasisi
+alias    : ibrahimpelumi6142
+role     : Full-Stack Engineer · Founder
+building : WorqNow · Cardron · OnlineQuickTools · BotDev Community
+stack    : Next.js · Node.js · Python · FastAPI · MongoDB · WhatsApp API
+location : Sheffield, UK 🇬🇧
+status   : Founder · Open Source · Building in Public
+```
+
+🔍 Building **WorqNow** — AI-powered WhatsApp job assistant serving Nigerian job seekers  
+💳 Building **Cardron** — instant gift cards & eSIMs via WhatsApp bot  
+🛠️ Running **OnlineQuickTools.com** — free browser-based utility tools (2.9M+ views)  
+🤝 Leading **BotDev Community** — open-source WhatsApp & Telegram bot starter kits
+
+> *"Ship fast. Build real. Automate everything."*
+
+---
+
+## 🔴 Currently Building
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| **🔍 WorqNow** | AI WhatsApp job assistant — CV builder, job search, NLU | FastAPI · MongoDB · WhatsApp API | ![ACTIVE](https://img.shields.io/badge/ACTIVE-00FF88?style=flat-square) |
+| **💳 Cardron** | Gift cards & eSIM store via WhatsApp bot | Python · MongoDB · WhatsApp API | ![ACTIVE](https://img.shields.io/badge/ACTIVE-00FF88?style=flat-square) |
+| **🛠️ OnlineQuickTools** | Browser-based utility SaaS (2.9M+ users) | Next.js · Node.js · Cloudflare | ![LIVE](https://img.shields.io/badge/LIVE-0099FF?style=flat-square) |
+| **🤝 BotDev Community** | Open-source bot starters for Baileys & Telegram | Node.js · Python · Open Source | ![WIP](https://img.shields.io/badge/WIP-FFAA00?style=flat-square) |
+
+---
+
+## 🚀 Featured Projects
+
+|  |  |
+|---|---|
+| **🔍 WorqNow**<br>AI-powered WhatsApp job assistant. Searches live jobs, recommends personalized listings, builds CVs, and automates the job hunt — fully on WhatsApp.<br><br>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white) | **💳 Cardron**<br>Buy gift cards and eSIMs instantly via WhatsApp. No app, no signup — just message and pay. Fully automated fulfillment with admin dashboard.<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **🛠️ OnlineQuickTools**<br>Free browser-based tools — PDF tools, image utilities, text processors, website analyzers and more. 2.9M+ pageviews, 154K+ users.<br><br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) | **🤝 BotDev Community**<br>Open-source production-ready starter kits for WhatsApp (Baileys) and Telegram bots. Built for developers who want to skip the boilerplate.<br><br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Open Source](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white) |
+
+---
+
+## 🛠️ Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+&nbsp;
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+&nbsp;
+
+![WhatsApp API](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=ibrahimpelumi6142&theme=tokyonight" alt="streak" />
+[![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=ibrahimpelumi6142&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true)](https://github.com/ibrahimpelumi6142)
+&nbsp;
+[![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ibrahimpelumi6142&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/ibrahimpelumi6142)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimpelumi6142&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://github.com/ibrahimpelumi6142)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrahimpelumi6142&theme=tokyo-night&hide_border=true&radius=10&area=true&area_color=00ff88)](https://github.com/ibrahimpelumi6142)
 
 </div>
 
+---
 
+## 🎯 Goals
+
+```
+Current focus  →  WorqNow growth · Cardron scale · BotDev OSS
+Building now   →  WhatsApp AI products for African markets
+Long-term      →  UK tech ecosystem · Global automation tooling
+```
 
 ---
 
-### ⭐ Vision
+**Always happy to connect with fellow builders!**
 
-I’m passionate about building real-world automation and AI systems that empower businesses, developers, and everyday users.  
-My long-term goal is to scale innovative digital products within the UK tech ecosystem and contribute open-source tooling for automation, cloud AI, and messaging technologies.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-lasisi-ba6192130/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_ibrahimlasisi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimpelumi6142@gmail.com)
 
----
-
-### 🎮 Personal Interests
-When I'm not building automation systems or SaaS products, I enjoy playing video games, exploring new technologies, and experimenting with cloud and AI tools.
-
----
-
-🔥 **If you like my work, feel free to star a repo or collaborate!**
+[![Profile Views](https://komarev.com/ghpvc/?username=ibrahimpelumi6142&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)](https://github.com/ibrahimpelumi6142)
