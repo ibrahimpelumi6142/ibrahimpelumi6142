@@ -10,12 +10,6 @@
 
 </div>
 
-<div align="center">
-
-[![snake animation](https://raw.githubusercontent.com/ibrahimpelumi6142/ibrahimpelumi6142/output/github-contribution-grid-snake-dark.svg)](https://github.com/ibrahimpelumi6142)
-
-</div>
-
 ---
 
 ```
