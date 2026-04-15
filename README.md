@@ -1,10 +1,18 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Ibrahim+Pelumi+Lasisi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=1&pause=99999&color=111111&center=true&vCenter=true&width=600&height=60&lines=Ibrahim+Pelumi+Lasisi)](https://git.io/typing-svg)
 
 [![subtitle](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=99999&color=FF0000&center=true&vCenter=true&width=700&height=28&lines=Full-Stack+Engineer+%C2%B7+Founder+%C2%B7+Builder)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2000&pause=1200&color=FF0000&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Building+WorqNow+%F0%9F%94%8D+—+AI+job+assistant+on+WhatsApp;Building+Cardron+%F0%9F%92%B3+—+gift+cards+%26+eSIMs+on+WhatsApp;Building+OnlineQuickTools.com+%F0%9F%9B%A0%EF%B8%8F+—+free+tools+for+everyone;Founder+%40+Devloopr+Web+Solution+Ltd+%F0%9F%87%AC%F0%9F%87%A7)](https://git.io/typing-svg)
+
+[![snake animation](https://raw.githubusercontent.com/ibrahimpelumi6142/ibrahimpelumi6142/output/github-contribution-grid-snake-dark.svg)](https://github.com/ibrahimpelumi6142)
+
+</div>
+
+<div align="center">
+
+[![snake animation](https://raw.githubusercontent.com/ibrahimpelumi6142/ibrahimpelumi6142/output/github-contribution-grid-snake-dark.svg)](https://github.com/ibrahimpelumi6142)
 
 </div>
 
@@ -97,7 +105,7 @@ status   : Founder · Open Source · Building in Public
 ```
 Current focus  →  WorqNow growth · Cardron scale · BotDev OSS
 Building now   →  WhatsApp AI products for African markets
-Long-term      →  UK tech ecosystem · Global automation tooling
+Long-term      →  Global tech ecosystem · Global automation tooling
 ```
 
 ---
