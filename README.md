@@ -37,7 +37,7 @@ status   : Founder · Open Source · Building in Public
 |---|---|---|---|
 | **🔍 WorqNow** | AI WhatsApp job assistant — CV builder, job search, NLU | FastAPI · MongoDB · WhatsApp API | ![ACTIVE](https://img.shields.io/badge/ACTIVE-00FF88?style=flat-square) |
 | **💳 Cardron** | Gift cards & eSIM store via WhatsApp bot | Python · MongoDB · WhatsApp API | ![ACTIVE](https://img.shields.io/badge/ACTIVE-00FF88?style=flat-square) |
-| **🛠️ OnlineQuickTools** | Browser-based utility SaaS (2.9M+ users) | Next.js · Node.js · Cloudflare | ![LIVE](https://img.shields.io/badge/LIVE-0099FF?style=flat-square) |
+| **🛠️ OnlineQuickTools** | Browser-based utility SaaS (500k+ users) | Next.js · Node.js · Cloudflare | ![LIVE](https://img.shields.io/badge/LIVE-0099FF?style=flat-square) |
 | **🤝 BotDev Community** | Open-source bot starters for Baileys & Telegram | Node.js · Python · Open Source | ![WIP](https://img.shields.io/badge/WIP-FFAA00?style=flat-square) |
 
 ---
