@@ -49,6 +49,17 @@ status   : Founder · Open Source · Building in Public
 | **🔍 WorqNow**<br>AI-powered WhatsApp job assistant. Searches live jobs, recommends personalized listings, builds CVs, and automates the job hunt — fully on WhatsApp.<br><br>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white) | **💳 Cardron**<br>Buy gift cards and eSIMs instantly via WhatsApp. No app, no signup — just message and pay. Fully automated fulfillment with admin dashboard.<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | **🛠️ OnlineQuickTools**<br>Free browser-based tools — PDF tools, image utilities, text processors, website analyzers and more. 2.9M+ pageviews, 154K+ users.<br><br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) | **🤝 BotDev Community**<br>Open-source production-ready starter kits for WhatsApp (Baileys) and Telegram bots. Built for developers who want to skip the boilerplate.<br><br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Open Source](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white) |
 
+## 🧩 VS Code Extensions
+
+Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/publishers/Ibrahim-Lasisi) — free tools built for developers.
+
+| Extension | Description | Installs |
+|---|---|---|
+| [📋 Smart Clipboard History](https://marketplace.visualstudio.com/items?itemName=Ibrahim-Lasisi.smart-clipboard-history) | Never lose what you copied! Track, search, and manage your full clipboard history inside VS Code. | ![Installs](https://img.shields.io/badge/installs-21-blue?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| [✅ Smart TODO Manager](https://marketplace.visualstudio.com/items?itemName=Ibrahim-Lasisi.smart-todo-manager) | Organize and track TODO, FIXME, HACK, NOTE, and BUG comments across your entire codebase. | ![Installs](https://img.shields.io/badge/installs-13-blue?style=flat-square&logo=visualstudiocode&logoColor=white) |
+
+---
+
 ---
 
 ## 🛠️ Tech Stack
