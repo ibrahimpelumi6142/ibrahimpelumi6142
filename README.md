@@ -56,7 +56,7 @@ Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.co
 | Extension | Description | Installs |
 |---|---|---|
 | [📋 Smart Clipboard History](https://marketplace.visualstudio.com/items?itemName=Ibrahim-Lasisi.smart-clipboard-history) | Never lose what you copied! Track, search, and manage your full clipboard history inside VS Code. | ![Installs](https://img.shields.io/badge/installs-24-blue?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| [✅ Smart TODO Manager](https://marketplace.visualstudio.com/items?itemName=Ibrahim-Lasisi.smart-todo-manager) | Organize and track TODO, FIXME, HACK, NOTE, and BUG comments across your entire codebase. | ![Installs](https://img.shields.io/badge/installs-14-blue?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| [✅ Smart TODO Manager](https://marketplace.visualstudio.com/items?itemName=Ibrahim-Lasisi.smart-todo-manager) | Organize and track TODO, FIXME, HACK, NOTE, and BUG comments across your entire codebase. | ![Installs](https://img.shields.io/badge/installs-16-blue?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 ---
 
