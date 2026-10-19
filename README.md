@@ -99,7 +99,7 @@ Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.co
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimpelumi6142&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://github.com/ibrahimpelumi6142)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrahimpelumi6142&theme=tokyo-night&hide_border=true&radius=10&area=true&area_color=00ff88)](https://github.com/ibrahimpelumi6142)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimpelumi6142&theme=tokyo-night&hide_border=true&border_radius=10)](https://github.com/ibrahimpelumi6142)
 
 </div>
 
