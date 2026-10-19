@@ -25,7 +25,7 @@ status   : Founder · Open Source · Building in Public
 🔍 Building **WorqNow** — AI-powered WhatsApp job assistant serving Nigerian job seekers  
 💳 Building **Cardron** — instant gift cards & eSIMs via WhatsApp bot  
 🛠️ Running **OnlineQuickTools.com** — free browser-based utility tools (500k+ views)  
-🤝 Leading **BotDev Community** — open-source WhatsApp & Telegram bot starter kits
+🤝 Leading **BotDev Community** — open-source WhatsApp & Telegram bot starter kits.
 
 > *"Ship fast. Build real. Automate everything."*
 
